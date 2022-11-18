@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leilane (@leilanefrc).
 - 🎓 I'm a final-year PhD candidate in economics at the University of Surrey.
-- 🌱 I’m interest in and currently learning about game analytics.
+- 🌱 I’m interested in and currently learning about game analytics.
 
 
 <!---
