@@ -12,6 +12,7 @@
 
 - 📊 Data visualization with Tableau: [see my Tableau Public profile](https://public.tableau.com/app/profile/leilane.cambara).
 - 🐼 Data manipulation with pandas: Exchange Rate Regimes, Video Games Market Trends, Cookie Cats Retention, Candy Crush Saga Difficulty.
+- 📈 Data visualization with Matplotlib: ...
 - 🆎 AB test: Cookie Cats Retention.
 - 🗂 Datasets I put together: [see my Kaggle profile](https://www.kaggle.com/leilanefrc/datasets).
 --->
