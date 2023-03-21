@@ -2,7 +2,7 @@
 
 - 👋 My name is Leilane (@leilanefrc).
 - 🎓 I'm a final-year PhD candidate in economics at the University of Surrey. (I'm due to submit my thesis in September 2023.)
-- 💻 I have been working on developing my software engineerign skills and will update my portfolio as I progress.
+- 💻 I have been working on developing my software engineering skills and will update my portfolio as I progress.
 - 🎮 I’m also currently learning C# and game development in Unity.
 - 🔍 You can also find me on [LinkedIn](https://www.linkedin.com/in/leilanecambara/).
 
