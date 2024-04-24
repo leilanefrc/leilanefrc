@@ -4,7 +4,7 @@
 
 👩🏻‍💻 I'm a data-driven economist with 7+ years of experience in using data, statistics and mathematical models to answer research questions.
 
-🎓 I finished my PhD in Economics at the University of Surrey in January 2024 and I'm currently working to strengthen my data analysis and data science skills.
+🎓 I finished my PhD in Economics at the University of Surrey in January 2024. I'm currently working to strengthen my data analysis and data science skills and will build a portfolio here.
 
 🔍 You can also find me on [LinkedIn](https://www.linkedin.com/in/leilanecambara/).
 
