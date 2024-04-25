@@ -12,6 +12,8 @@
 
 ### My portfolio
 
+**R:** [https://github.com/leilanefrc/r-projects](https://github.com/leilanefrc/r-projects)
+
 **SQL:** [https://github.com/leilanefrc/sql-projects](https://github.com/leilanefrc/sql-projects)
 
 **Data viz:** [https://public.tableau.com/app/profile/leilane.cambara/vizzes](https://public.tableau.com/app/profile/leilane.cambara/vizzes)
