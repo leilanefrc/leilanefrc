@@ -2,7 +2,7 @@
 
 👋 My name is Leilane (@leilanefrc).
 
-👩🏻‍💻 I'm a data-driven economist with 7+ years of experience in using data, statistics and mathematical models to answer research questions. I'm currently working to strengthen my data analysis+science skills and build a portfolio here.
+👩🏻‍💻 I'm a data-driven economist with 7+ years of experience in using data, statistics and mathematical models to answer research questions. I'm currently working to strengthen my data analysis+science skills and build a portfolio with new code here.
 
 🔍 You can also find me on [LinkedIn](https://www.linkedin.com/in/leilanecambara/).
 
