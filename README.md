@@ -2,7 +2,7 @@
 
 👋 My name is Leilane (@leilanefrc).
 
-👩🏻‍💻 I'm a data-driven economist with 7+ years of experience in using data, statistics and mathematical models to answer research questions. I'm currently working to strengthen my data analysis+science skills and build a portfolio with new code here.
+👩🏻‍💻 I'm a PhD economist with 7+ years of experience in using data, statistics and mathematical models to answer research questions. I'm currently working to strengthen my data analysis+science skills and build a portfolio with new code here.
 
 🔍 You can also find me on [LinkedIn](https://www.linkedin.com/in/leilanecambara/).
 
@@ -16,13 +16,19 @@
 
 **Data viz:** [https://public.tableau.com/app/profile/leilane.cambara/vizzes](https://public.tableau.com/app/profile/leilane.cambara/vizzes)
 
-### My portfolio by topic
+### My academic projects
 
-**Regression:**
-- [https://github.com/leilanefrc/money-happiness](https://github.com/leilanefrc/money-happiness)
+**The macroeconomics of foreign exchange intervention in an emergin economy (PhD thesis):** [https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/The-Macroeconomics-of-Foreign-Exchange-Intervention/99849865902346/](https://openresearch.surrey.ac.uk/esploro/outputs/doctoral/The-Macroeconomics-of-Foreign-Exchange-Intervention/99849865902346/)
 
-**A/B test:**
-- [https://github.com/leilanefrc/marketing-analytics](https://github.com/leilanefrc/marketing-analytics)
+*Skills: MATLAB, time series analysis/modelling, macroeconomic modelling*
+
+**News sentiment and foreign portfolio investment in Brazil (MSc thesis):** [https://github.com/leilanefrc/academic/blob/main/Cambara_and_Meurer_2023.pdf](https://github.com/leilanefrc/academic/blob/main/Cambara_and_Meurer_2023.pdf)
+
+*Skills: R, SQL, text analysis, web scrapping, time series analysis/modelling, data viz*
+
+**The behavior of inflation expectations in Brazil:** [https://github.com/leilanefrc/academic/blob/main/Cambara_Meurer_Lima_2022.pdf](https://github.com/leilanefrc/academic/blob/main/Cambara_Meurer_Lima_2022.pdf)
+
+*Skills: R, time series analysis/modelling, data viz*
   
 <!---
 leilanefrc/leilanefrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
