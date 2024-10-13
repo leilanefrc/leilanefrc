@@ -2,9 +2,7 @@
 
 👋 My name is Leilane (@leilanefrc).
 
-👩🏻‍💻 I am a data scientist, with a PhD in Economics and 7+ years of experience in using data, statistics and mathematical models to answer research questions.
-
-📈 This means I have the necessary skills for **machine learning**, **experimental design**, **causal inference** and **hypothesis testing**.
+👩🏻‍💻 I am a data analyst with 7+ years of experience in using data, statistics and mathematical models to answer research questions.
 
 💻 I am a self-taught programmer who enjoys using code to solve problems. I have experience using **R**, **Python**, **SQL** and MATLAB to work with data. I have also already used PHP, HTML, CSS and (a tiny bit of) C#. Currently, I have been learning JavaScript in my free time.
 
