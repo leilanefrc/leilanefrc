@@ -2,9 +2,12 @@
 
 👋 My name is Leilane (@leilanefrc).
 
-👩🏻‍💻 I am a data analyst with 7+ years of experience in using data, statistics and mathematical models to answer research questions.
+👩🏻‍💻 I'm a PhD economist working at the intersection of quantitative modelling, time series analysis, and NLP, with a focus on financial markets and macroeconomic data.
 
-💻 I am a self-taught programmer who enjoys using code to solve problems. I have experience using MATLAB, R, and Python. I have also already used SQL, PHP, HTML, CSS and (a tiny bit of) C#. Currently, I have been learning JavaScript in my free time.
+🛠️ **Tools:** Python · R · SQL · MATLAB · Dynare · Stata. **Methods:** Bayesian inference · Time series · NLP · Causal inference · Agent-based modelling
+
+💻 **What you'll find here:**
+  - 📊 Portfolio write-ups of published research in NLP, time series, and Bayesian structural modelling.
 
 🔍 You can also find me on [LinkedIn](https://www.linkedin.com/in/leilanecambara/).
   
